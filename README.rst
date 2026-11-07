@@ -12,7 +12,7 @@ Required
 
 Optional
 --------
-* Move common code in tests into fixtures
+* Move common code in tests into fixtures.
 * Use a config file to configurate output directory.
 * Implement custom validation with `native validation`_ since ``soft`` or ``lxml``
   validation doesn't work with testing according to `Github issue`_. But before,
